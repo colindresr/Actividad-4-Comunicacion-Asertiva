@@ -1,8 +1,11 @@
 # Actividad  4 – Comunicación Asertiva
 
-**Universidad de San Carlos de Guatemala**
+**Universidad de San Carlos de Guatemala** 
+\
 **Facultad de Ingeniería**
+\
 **Escuela de Ingeniería en Ciencias y Sistemas**
+\
 **Curso:** Laboratorio de Comunicación Asertiva "A"
 
 **Integrantes:**
@@ -18,21 +21,9 @@
 
 <div align ="justify">
 
-Durante el desarrollo de un proyecto en equipo, los estudiantes deben preparar una presentación para una entrega importante del curso. Uno de los integrantes del grupo considera que el trabajo no está suficientemente completo y propone realizar cambios en la estructura y contenido de la presentación. Sin embargo, otro integrante cree que ya es suficiente y que hacer modificaciones a última hora podría afectar el tiempo disponible para prepararse.
-
-La discusión comienza a generar tensión dentro del grupo porque algunos miembros se sienten ignorados y otros consideran que sus ideas no están siendo tomadas en cuenta. Como resultado, la comunicación se vuelve confusa y algunos comentarios empiezan a interpretarse de forma negativa.
-
-</div>
-
 ### 1.2 ¿Cuál es el problema principal de comunicación?
 
 <div align="justify">
-
-El problema principal es que los integrantes del grupo no están escuchando ni tomando en cuenta las opiniones de los demás. Un integrante piensa que la presentación todavía necesita cambios, mientras que otro considera que ya está suficientemente completa y que modificarla a última hora puede ser un problema.
-
-El problema no es solamente que tengan opiniones diferentes, sino la forma en que están comunicando esas opiniones. Al no escucharse correctamente, algunas personas sienten que sus ideas son ignoradas y la conversación empieza a generar tensión.
-
-</div>
 
 ### 1.3 ¿Qué factores provocaron el conflicto?
 
@@ -45,20 +36,9 @@ Entre los principales factores que provocaron el conflicto están:
 - Comentarios que pudieron interpretarse de manera negativa.
 - Los integrantes empezaron a defender sus propias ideas en lugar de buscar una solución en conjunto.
 
-
 ### 1.4 ¿Qué errores de comunicación se cometieron?
 
 <div align = "justify">
-
-Algunos errores que se pueden identificar son:
-
-1. **No escuchar completamente a los demás.** Algunos integrantes se enfocaron más en defender su opinión que en entender la propuesta de sus compañeros.
-2. **No expresar las opiniones de manera adecuada.** Una idea puede ser correcta, pero si se dice muy o o agresivo puede generar un conflicto.
-3. **No utilizar mensajes en primera persona.** En lugar de decir "ustedes no hicieron bien el trabajo", es mejor decir "yo considero que podríamos mejorar esta parte".
-4. **No buscar un punto medio.** El grupo se enfocó en decidir quién tenía la razón, en vez de pensar en una solución para todos.
-5. **Dejar que el tono y la actitud empeoraran la situación.** Aunque las palabras no sean ofensivas, un tono molesto o una actitud negativa pueden hacer que los demás interpreten el mensaje de una manera diferente.
-
-</div>
 
 ---
 
@@ -133,8 +113,6 @@ Esto permite que el problema se convierta en una oportunidad para organizar mejo
 <div align ="justify">
 La comunicación no verbal también puede influir bastante en este tipo de situaciones. Aunque una persona diga algo de manera correcta, su tono de voz, sus gestos o su actitud pueden hacer que el mensaje sea interpretado de otra forma. La actividad solicita analizar específicamente el tono de voz, lenguaje corporal y actitud.
 
-</div>
-
 ### 3.1 Tono de voz
 
 El tono de voz puede hacer que una opinión parezca una crítica o un ataque, aunque esa no sea la intención.
@@ -152,50 +130,23 @@ Se podría, decir:
 con un tono tranquilo transmite la misma idea, pero de una manera más abierta al diálogo.
 
 ### 3.2 Lenguaje corporal
+
 <div align="justify">
 Los gestos también pueden afectar la conversación. Cruzar los brazos, evitar mirar a los demás, hacer gestos de molestia o revisar constantemente el teléfono puede transmitir desinterés o rechazo hacia las opiniones de los compañeros.
-
-Para mejorar la comunicación sería mejor mantener una postura abierta, prestar atención cuando otra persona habla y mostrar interés mediante el contacto visual y una actitud receptiva.
-
-### 3.3 Actitud
-
-La actitud de cada integrante es importante porque una discusión puede convertirse rápidamente en un conflicto si todos intentan imponer su opinión.
-
-Una actitud positiva implica estar dispuesto a escuchar, aceptar que otras personas pueden tener ideas diferentes y buscar una solución que beneficie al grupo.
-
-En este caso, una actitud colaborativa permitiría que los integrantes se concentren en terminar bien la presentación en lugar de discutir sobre quién tiene la razón.
-</div>
 
 ---
 
 # 4. Reflexión final
 
 ### 4.1 ¿Qué errores de comunicación provocaron el conflicto?
+
 <div align="justify">
 Los errores fueron no escuchar correctamente las opiniones de los compañeros, responder de una manera que podía interpretarse como negativa y enfocarse en defender las propias ideas. También influye la presión por el tiempo, ya que la entrega estaba cerca y eso hizo que los integrantes estuvieran más preocupados.
-
-Creemos que muchas veces en un trabajo en grupo se puede tener una buena idea, pero la forma de comunicarla puede hacer que los demás la reciban mal.
-
-</div>
 
 ### 4.2 ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
 
 <div align="justify">
 
-La comunicación asertiva ayudó a que cada integrante pudiera expresar lo que pensaba sin atacar a los demás. También permitió escuchar las diferentes opiniones y encontrar una solución que tomara en cuenta las preocupaciones del grupo.
-
-En lugar de discutir sobre si se debía cambiar toda la presentación o dejarla como estaba, se llegó a un acuerdo: revisar únicamente las partes más importantes y repartir las tareas.
-
-</div>
-
 ### 4.3 ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
 
 <div align = "justify">
-
-Es importante porque en un equipo no todas las personas van a pensar igual. Tener diferentes opiniones es normal y puede ayudar a mejorar el resultado final, siempre que exista respeto entre los integrantes.
-
-Una comunicación respetuosa permite expresar desacuerdos sin convertirlos en conflictos personales. Además, facilita la organización, ayuda a resolver problemas más rápido y permite que todos los integrantes se sientan tomados en cuenta.
-
-La comunicación asertiva es importante en los trabajos universitarios porque no solamente se trata de terminar una tarea, sino también de aprender a trabajar con otras personas. Saber escuchar, expresar nuestras ideas y llegar a acuerdos es algo que también será necesario en el ámbito profesional
-
-</div>
