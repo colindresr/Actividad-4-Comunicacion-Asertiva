@@ -177,3 +177,37 @@ Una comunicación respetuosa permite expresar desacuerdos sin convertirlos en co
 La comunicación asertiva es importante en los trabajos universitarios porque no solamente se trata de terminar una tarea, sino también de aprender a trabajar con otras personas. Saber escuchar, expresar nuestras ideas y llegar a acuerdos es algo que también será necesario en el ámbito profesional.
 
 </div>
+
+
+# 5. Tácticas para optimizar la comunicación en equipos de trabajo
+
+## 5.1 Escuchar con atención
+
+La escucha activa implica concentrarse en lo que los demás miembros están diciendo sin interrumpirlos ni pensar solamente en cómo replicar. Esto posibilita una mejor comprensión de las inquietudes e ideas de cada individuo.
+
+En el supuesto presentado, si se hubieran escuchado primero los motivos por los cuales un miembro deseaba cambiar la presentación, se habría comprendido que su propósito era mejorar el trabajo y no censurar el esfuerzo ajeno.
+
+## 5.2 Comunicar las ideas con respeto
+
+Es importante expresar las opiniones de manera clara, pero evitando el uso de palabras que puedan incomodar a otros. Manifestar desacuerdos no quiere decir agredir a alguien.
+
+Por ejemplo, en vez de "tu parte está mal", se puede expresar "creo que sería bueno revisar esta sección para que esté más clara". Así, se mantiene el respeto y se promueve la cooperación.
+
+## 5.3 Alcanzar acuerdos
+
+El equipo tiene que buscar opciones que faciliten el progreso cuando hay discrepancias de opinión. No es necesario que una persona esté absolutamente en lo correcto y la otra completamente equivocada todo el tiempo.
+
+En estas circunstancias, el acuerdo de examinar solo las secciones más relevantes posibilitó optimizar la presentación sin que se invirtiera mucho tiempo.
+
+## 5.4 Asignar responsabilidades
+
+Una comunicación adecuada también incluye la organización de las tareas y determinar quién será el responsable de cada una de ellas. Esto facilita el uso óptimo del tiempo disponible y previene confusiones.
+
+Al dividir las tareas entre contenido, diseño y revisión final en el ejemplo, todos los miembros pudieron participar y el trabajo se pudo terminar de una manera más ordenada.
+
+## 5.5 Conservar una actitud optimista
+
+Por último, conservar una actitud positiva contribuye a prevenir que las discrepancias de opinión se transformen en conflictos. Los miembros deben tener presente su meta común: terminar el proyecto de la mejor manera posible.
+
+## Conclusión
+En conclusión, aplicar estas estrategias permite mejorar la comunicación, reducir los conflictos y fortalecer el trabajo en equipo. La comunicación asertiva no significa estar de acuerdo con todo, sino saber expresar las diferencias de manera respetuosa y buscar soluciones en conjunto.
