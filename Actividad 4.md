@@ -19,15 +19,17 @@
 
 ### 1.1 Escenario Propuesto
 
-<div align ="justify">
+Durante el desarrollo de un proyecto en equipo, los estudiantes deben preparar una presentación para una entrega importante del curso. Uno de los integrantes del grupo considera que el trabajo no está suficientemente completo y propone realizar cambios en la estructura y contenido de la presentación. Sin embargo, otro integrante cree que ya es suficiente y que hacer modificaciones a última hora podría afectar el tiempo disponible para prepararse.
+
+La discusión comienza a generar tensión dentro del grupo porque algunos miembros se sienten ignorados y otros consideran que sus ideas no estan siendo tomadas en cuenta. Como resultado, la comunicación se vuelve confusa y algunos comentarios empiezan a interpretarse de forma negativa.
 
 ### 1.2 ¿Cuál es el problema principal de comunicación?
 
-<div align="justify">
+El problema principal es que los integrantes del grupo no están escuchando ni tomando en cuenta las opiniones de los demás. Un integrante piensa que la presentación todavía necesita cambios, mientras que otro considera que ya está suficientemente completa y que modificarla a última hora puede ser un problema.
+
+El problema no es solamente que tengan opiniones diferentes, sino la forma en que están comunicando esas opiniones. Al no escucharse correctamente, algunas personas sienten que sus ideas son ignoradas y la conversación empieza a generar tensión.
 
 ### 1.3 ¿Qué factores provocaron el conflicto?
-
-Entre los principales factores que provocaron el conflicto están:
 
 - Diferentes opiniones sobre cómo debería quedar la presentación.
 - Poco tiempo disponible antes de la entrega.
@@ -70,7 +72,7 @@ Siempre quieres cambiar todo a última hora. Así nunca vamos a terminar.
 **Integrante 3:**
 Ya déjenlo así, mejor. No vamos a avanzar si seguimos discutiendo.
 
-En este diálogo se puede observar que los integrantes empiezan a defender sus posiciones y no están buscando entenderse. Esto provoca que la conversación se vuelva más tensa.
+En este diálogo, los integrantes empiezan a defender sus posiciones y no están buscando entenderse. Esto provoca que la conversación se vuelva más tensa.
 
 ### Diálogo mejorado
 
@@ -103,7 +105,7 @@ Perfecto. Entonces trabajamos sobre esos cambios y al final revisamos juntos la 
 
 ### ¿Qué se mejoró en el diálogo?
 
-En la segunda versión se aplican varios principios de comunicación asertiva:
+En la segunda versión se aplica comunicación asertiva en:
 
 - Se expresan las opiniones de manera clara y respetuosa.
 - Se utilizan frases en primera persona, como "yo considero" y "me preocupa".
@@ -152,10 +154,26 @@ Los gestos también pueden afectar la conversación. Cruzar los brazos, evitar m
 <div align="justify">
 Los errores fueron no escuchar correctamente las opiniones de los compañeros, responder de una manera que podía interpretarse como negativa y enfocarse en defender las propias ideas. También influye la presión por el tiempo, ya que la entrega estaba cerca y eso hizo que los integrantes estuvieran más preocupados.
 
+</div>
+
 ### 4.2 ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
 
 <div align="justify">
 
+La comunicación asertiva ayudó a que cada integrante pudiera expresar lo que pensaba sin atacar a los demás. También permitió escuchar las diferentes opiniones y encontrar una solución que tomara en cuenta las preocupaciones del grupo.
+
+En lugar de discutir sobre si se debía cambiar toda la presentación o dejarla como estaba, se llegó a un acuerdo: revisar únicamente las partes más importantes y repartir las tareas.
+
+</div>
+
 ### 4.3 ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
 
 <div align = "justify">
+
+Es importante porque en un equipo no todas las personas van a pensar igual. Tener diferentes opiniones es normal y puede ayudar a mejorar el resultado final, siempre que exista respeto entre los integrantes.
+
+Una comunicación respetuosa permite expresar desacuerdos sin convertirlos en conflictos personales. Además, facilita la organización, ayuda a resolver problemas más rápido y permite que todos los integrantes se sientan tomados en cuenta.
+
+La comunicación asertiva es importante en los trabajos universitarios porque no solamente se trata de terminar una tarea, sino también de aprender a trabajar con otras personas. Saber escuchar, expresar nuestras ideas y llegar a acuerdos es algo que también será necesario en el ámbito profesional.
+
+</div>
