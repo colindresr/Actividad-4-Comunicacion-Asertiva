@@ -38,7 +38,16 @@ Entre los principales factores que provocaron el conflicto están:
 
 ### 1.4 ¿Qué errores de comunicación se cometieron?
 
-<div align = "justify">
+1. **No escuchar completamente a los demás.** Algunos integrantes se enfocaron más en defender su opinión que en entender la propuesta de sus compañeros.
+
+2. **No expresar las opiniones de manera adecuada.** Una idea puede ser correcta, pero si se dice de una forma muy directa o agresiva puede generar un conflicto.
+
+3. **No utilizar mensajes en primera persona.** En lugar de decir "ustedes no hicieron bien el trabajo", es mejor decir "yo considero que podríamos mejorar esta parte".
+
+4. **No buscar un punto medio.** El grupo se enfocó en decidir quién tenía la razón, en vez de pensar en una solución que funcionara para todos.
+
+5. **Dejar que el tono y la actitud empeoraran la situación.** Aunque las palabras no sean ofensivas, un tono molesto o una actitud negativa pueden hacer que los demás interpreten el mensaje de una manera diferente.
+
 
 ---
 
